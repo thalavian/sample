@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/test",
+      "destination": "https://my-node-repo.vercel.app",
+      "permanent": true
+    }
+  ]
+}
