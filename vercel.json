@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/test",
+      "source": "/register",
       "destination": "https://my-node-repo.vercel.app",
       "permanent": true
     }
